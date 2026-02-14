@@ -10,8 +10,10 @@ h1 {
 }
 
 h2 {
-    border-bottom: 2px solid rgb(62, 62, 62);
+    text-align: center;
+    border-bottom: 2px solid black;
     margin-top: 30px;
+    padding-bottom: 6px;
 }
 
 ul {
